@@ -53,9 +53,9 @@ I am a passionate **Network Engineer** and **Cybersecurity Specialist** with han
 - Router & switch configuration files
 - Network addressing scheme & documentation
 
-📂 [View Project →](https://drive.google.com/file/d/1Z1YXVj-su_1StmqsAJ8jOIHwM4NcLfic/view?usp=drivesdk)
+📂 [View Project →](Network project.pkt.pkt)
 📂 [View configuration files →](https://drive.google.com/drive/folders/1xk0FY5C7BDlhLOawLNWS6v1PrkPZmUZb)
-📂 [View project diagram →](https://drive.google.com/drive/folders/1aYWQbNOhyM2QTK-7xxsZbGmKs6hKZn8q)
+📂 [View project diagram →](Network project diagram.pdf)
 ---
 
 ## Professional Documents
@@ -63,8 +63,7 @@ I am a passionate **Network Engineer** and **Cybersecurity Specialist** with han
 | Document | Description | Link |
 |----------|-------------|------|
 | 📄 Curriculum Vitae | Full professional resume | [View CV](Abdullah_Aboelftoh_cv.pdf) |
-| 📁 Portfolio | Project portfolio & experience | [View Portolio](https://drive.google.com/file/d/1Mokxv87NwRFibUdhgdsNspAxqEaDuQU1/view?usp=drivesdk) |
-
+| 📁 Portfolio | Project portfolio & experience | [View Portolio](Abdullah_Eslam_portfolio_final.pdf)
 ---
 
 ## Get In Touch
