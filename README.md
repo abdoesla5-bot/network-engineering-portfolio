@@ -55,7 +55,7 @@ I am a passionate **Network Engineer** and **Cybersecurity Specialist** with han
 
 📂 [View Project →](Network-project.pkt)
 📂 [View configuration files →](https://drive.google.com/drive/folders/1xk0FY5C7BDlhLOawLNWS6v1PrkPZmUZb)
-📂 [View project diagram →](Network-project-diagram.pdf)
+📂 [View project diagram →](Network-project-diagram1.pdf)
 ---
 
 ## Professional Documents
