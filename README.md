@@ -62,8 +62,8 @@ I am a passionate **Network Engineer** and **Cybersecurity Specialist** with han
 
 | Document | Description | Link |
 |----------|-------------|------|
-| 📄 Curriculum Vitae | Full professional resume | [View CV](https://drive.google.com/file/d/1EbpzLfa_GFqOX3YBow9CYv8jQUJCBhE-/view?usp=drivesdk) |
-| 📁 Portfolio | Project portfolio & experience | [View Portfolio](https://drive.google.com/file/d/1Mokxv87NwRFibUdhgdsNspAxqEaDuQU1/view?usp=drivesdk) |
+| 📄 Curriculum Vitae | Full professional resume | [View CV](Abdullah_Aboelftoh_cv.pdf) |
+| 📁 Portfolio | Project portfolio & experience | [View Portolio](https://drive.google.com/file/d/1Mokxv87NwRFibUdhgdsNspAxqEaDuQU1/view?usp=drivesdk) |
 
 ---
 
