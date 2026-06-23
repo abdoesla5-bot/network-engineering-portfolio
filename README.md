@@ -5,7 +5,7 @@
 ### Network Engineer & Cybersecurity Specialist
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdoesla5--bot-181717?style=flat-square&logo=github)](https://github.com/abdoesla5-bot)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:abdoeslam2024@icloud.com)
 
 </div>
 
@@ -54,6 +54,7 @@ I am a passionate **Network Engineer** and **Cybersecurity Specialist** with han
 - Network addressing scheme & documentation
 
 📂 [View Project →](https://drive.google.com/file/d/1Z1YXVj-su_1StmqsAJ8jOIHwM4NcLfic/view?usp=drivesdk)
+📂 [View configuration files →](https://drive.google.com/drive/folders/1xk0FY5C7BDlhLOawLNWS6v1PrkPZmUZb)
 
 ---
 
@@ -72,7 +73,7 @@ I am open to opportunities in **Network Engineering**, **Cybersecurity**, and **
 
 > 📧 **Email:** abdoeslam2024@icloud.com
 > 🌍 **Location:** Egypt
-
+> 📞 **phone:** +20 1141129679
 
 ---
 
